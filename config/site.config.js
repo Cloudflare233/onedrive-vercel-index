@@ -53,7 +53,7 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/Cloudflare233,
+      link: 'https://github.com/Cloudflare233',
     },
   ],
 
